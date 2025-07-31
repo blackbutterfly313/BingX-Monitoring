@@ -1,18 +1,4 @@
----
-title: bingx-monitoring
-emoji: 📊
-colorFrom: pink
-colorTo: green
-sdk: gradio
-pinned: false
-tags:
-- trading
-- dashboard
-- bingx
-- classifier
-- gradio
 sdk_version: 5.39.0
----
 
 # BingX Monitoring Dashboard
 
